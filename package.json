@@ -1,0 +1,20 @@
+{
+  "name": "node-repl",
+  "main": "./lib/node-repl",
+  "version": "0.1.0",
+  "description": "JavaScript Read-Eval-Print-Loop (REPL) for Atom",
+  "keywords": [
+    "repl",
+    "javascript"
+  ],
+  "activationCommands": {
+    "atom-workspace": "node-repl:toggle"
+  },
+  "repository": "https://github.com/tpae/node-repl",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
