@@ -1,8 +1,10 @@
-node-repl - JavaScript Read-Eval-Print-Loop (REPL) for Atom.
+node-repl - JavaScript Read-Eval-Print-Loop (REPL) for Atom
 =========
 
 Inspired by coderpad, having a live REPL on your Atom is nice for simple coding
 exercises.
+
+Still in active development, check back for progress!
 
 #### How to / Installation
 
