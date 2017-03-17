@@ -6,6 +6,8 @@ exercises.
 
 Still in active development, check back for progress!
 
+![zpbt47r6nv](https://cloud.githubusercontent.com/assets/189663/24029889/94a9228e-0a96-11e7-932f-87fcd1f262ce.gif)
+
 #### How to / Installation
 
 Install package through Atom or use CLI:
