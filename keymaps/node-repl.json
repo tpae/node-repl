@@ -1,6 +1,6 @@
 {
   "atom-workspace": {
-    "cmd-w": "node-repl:toggle",
-    "cmd-t": "node-repl:run"
+    "opt-cmd-w": "node-repl:toggle",
+    "opt-cmd-t": "node-repl:run"
   }
 }
